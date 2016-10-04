@@ -1,14 +1,14 @@
 ## Week 1 (October 7, 2016)
 Leads: Casey, Jorge
 
-| start | end | session | location |
-|-------------|--------|--------|--|
-| 9:00 AM | 10:00 AM | Guest Speaker (Jeff Powell - in person) | tbd |
-| 10:00 AM | 12:00 PM | Instructional Time | tbd |
-| 12:00 PM | 1:15 PM | Lunch | tbd |
-| 1:15 PM | 2:15 PM | Gear Up - Rock the Vote | tbd |
-| 2:15 PM | 3:15 PM | Friday Spike | tbd |
-| 3:15 PM | 4:00 PM | Cohort Retro | tbd |
+start | end | session | location 
+-------------|--------|--------|--
+9:00 AM | 10:00 AM | Guest Speaker (Jeff Powell - in person) | tbd 
+10:00 AM | 12:00 PM | Instructional Time | tbd 
+12:00 PM | 1:15 PM | Lunch | tbd 
+1:15 PM | 2:15 PM | Gear Up - Rock the Vote | tbd 
+2:15 PM | 3:15 PM | Friday Spike | tbd 
+3:15 PM | 4:00 PM | Cohort Retro | tbd 
 
 ## Week 2 (October 14, 2016)
 Lead: Beth
