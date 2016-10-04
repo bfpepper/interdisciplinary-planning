@@ -2,7 +2,7 @@
 Leads: Casey, Jorge
 
 start | end | session | location 
--------------|--------|--------|--
+------------- | -------- | -------- | --
 9:00 AM | 10:00 AM | Guest Speaker (Jeff Powell - in person) | tbd 
 10:00 AM | 12:00 PM | Instructional Time | tbd 
 12:00 PM | 1:15 PM | Lunch | tbd 
