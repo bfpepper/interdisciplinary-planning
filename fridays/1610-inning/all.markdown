@@ -4,10 +4,13 @@ Leads: Casey, Jorge
 start | end | session | location
 ------------- | -------- | -------- | --- 
 9:00 AM | 10:00 AM | Guest Speaker (Jeff Powell - in person) | Live at Gusto, Hangout at Blake/GB (Lia, tbd, tbd)
+15 min | ---- | --- TRANSITION TIME --- | ----
 10:00 AM | 12:00 PM | Instructional Time | regular classrooms
 12:00 PM | 1:15 PM | Brown-Bag Lunch Roulette | student choice 
 1:15 PM | 2:15 PM | Gear Up - Rock the Vote | Gusto and Blake (Casey, Jorge)
+10:00 AM | 10:15 PM | transition time | n/a
 2:15 PM | 3:15 PM | Friday Spike | Gusto and Blake  (Ilana)
+10:00 AM | 10:15 PM | transition time | n/a
 3:15 PM | 4:00 PM | Cohort Retro | regular classrooms 
 
 ## Week 2 (October 14, 2016)
