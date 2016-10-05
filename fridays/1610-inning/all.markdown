@@ -29,6 +29,7 @@ start | end | session | location
 
 ## Week 3 (October 21, 2016)
 Leads: EM, Casey
+Notes: Flu Clinic at Blake from 9-11
 
 start | end | session | location 
 -------------|--------|--------|---
@@ -45,6 +46,7 @@ start | end | session | location
 
 ## Week 4 (October 28, 2016)
 Lead: Beth
+Notes: Job-Shadowing day for FE-3, BE-3, and BE-4
 
 start | end | session | location 
 -------------|--------|--------|---
@@ -75,6 +77,7 @@ start | end | session | location
 
 ## Week 6 (November 11, 2016)
 Lead: Beth
+Notes: Students will be floating in/out of portfolio reviews during the day
 
 start | end | session | location 
 -------------|--------|--------|---
