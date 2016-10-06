@@ -3,7 +3,7 @@ Leads: Casey, Jorge
 
 start | end | session | location
 ------------- | -------- | -------- | --- 
-9:00 AM | 10:00 AM | Guest Speaker (Jeff Powell - in person) | Live at Gusto, Hangout at Blake/GB (Lia, tbd, tbd)
+9:00 AM | 10:00 AM | Guest Speaker (Jeff Powell - in person) | Live at Gusto, Hangout at Blake/GB (Lia, Brenna, Taylor, Ilana)
  | 10 min | TRANSITION TIME | 
 10:10 AM | 12:00 PM | Instructional Time | regular classrooms
 12:00 PM | 1:15 PM | Brown-Bag Lunch Roulette | student choice 
@@ -18,7 +18,7 @@ Lead: Beth
 
 start | end | session | location 
 -------------|--------|--------|---
-9:00 AM | 10:00 AM | Guest Speaker (Ben Pepper - in person) | Live at Blake, Hangout at Gusto/GB (Lia, tbd, tbd) 
+9:00 AM | 10:00 AM | Guest Speaker (Ben Pepper - in person) | Live at Blake, Hangout at Gusto/GB (Lia, Brenna, Taylor, Ilana) 
  | 10 min | TRANSITION TIME | 
 10:10 AM | 12:00 PM | Instructional Time | regular classrooms 
 12:00 PM | 1:15 PM | Brown-Bag Lunch Roulette | student choice 
@@ -33,7 +33,7 @@ Notes: Flu Clinic at Blake from 9-11
 
 start | end | session | location 
 -------------|--------|--------|---
-9:00 AM | 10:00 AM | Guest Speaker (Brad Urani - remote) | Hangout at Gusto, GB, Blake (Lia, tbd, tbd) 
+9:00 AM | 10:00 AM | Guest Speaker (Brad Urani - remote) | Hangout at Gusto, GB, Blake (Lia, Brenna, Taylor, Ilana) 
  | 10 min | TRANSITION TIME | 
 10:10 AM | 12:00 PM | Instructional Time | regular classrooms 
 12:00 PM | 1:15 PM | Brown-Bag Lunch Roulette | student choice 
@@ -50,7 +50,7 @@ Notes: Job-Shadowing day for FE-3, BE-3, and BE-4
 
 start | end | session | location 
 -------------|--------|--------|---
-9:00 AM | 10:00 AM | Guest Speaker (Jeremy Jackson - in person) |  Live at Gusto, Hangout at Blake/GB (Lia, tbd, tbd)
+9:00 AM | 10:00 AM | Guest Speaker (Jeremy Jackson - in person) |  Live at Gusto, Hangout at Blake/GB (Lia, Brenna, Taylor, Ilana)
  | 10 min | TRANSITION TIME | 
 10:10 AM | 12:00 PM | Instructional Time | regular classrooms 
 12:00 PM | 1:15 PM | Brown-Bag Lunch Roulette | student choice
@@ -64,7 +64,7 @@ Lead: Beth
 
 start | end | session | location 
 -------------|--------|--------|---
-9:00 AM | 10:00 AM | Guest Speaker (Nic Gray - in person) | Live at Blake, Hangout at Gusto/GB (Lia, tbd, tbd) 
+9:00 AM | 10:00 AM | Guest Speaker (Nic Gray - in person) | Live at Blake, Hangout at Gusto/GB (Lia, Brenna, Taylor, Ilana) 
  | 10 min | TRANSITION TIME | 
 10:10 AM | 12:00 PM | Instructional Time | regular classrooms 
 12:00 PM | 1:15 PM | Brown-Bag Lunch Roulette | student choice 
