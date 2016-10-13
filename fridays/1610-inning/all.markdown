@@ -19,7 +19,7 @@ Lead: Beth
 start | end | session | location 
 -------------|--------|--------|---
 9:00 AM | 9:45 AM | Guest Speaker (Ben Pepper - in person, demoing Tesla) | **ALL STUDENTS** live at [parking lot near Qdoba](https://goo.gl/UpFPLD) (Beth, Brenna, Taylor, Ilana) 
- | 10 min | TRANSITION TIME | 
+ | 15 min | TRANSITION TIME | 
 10:00 AM | 12:00 PM | Instructional Time | regular classrooms 
 12:00 PM | 1:15 PM | Brown-Bag Lunch Roulette | student choice 
 1:15 PM | 3:00 PM | Friday Spike | Gusto and Blake (Ilana)
