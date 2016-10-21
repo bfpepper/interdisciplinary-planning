@@ -37,7 +37,7 @@ start | end | session | location
  | 10 min | TRANSITION TIME | 
 10:10 AM | 12:00 PM | Instructional Time | regular classrooms 
 12:00 PM | 1:15 PM | Brown-Bag Lunch Roulette | student choice 
-1:15 PM | 2:15 PM | Gear Up | Gusto and Blake (Ellen Mary)
+1:15 PM | 2:15 PM | Gear Up | Gusto, Blake, Suite 300 (Bree, Ellen Mary, Brenna)
  | 10 min | TRANSITION TIME | 
 2:25 PM | 3:15 PM | Friday Spike | Gusto and Blake (Ilana)
  | 10 min | TRANSITION TIME | 
