@@ -1,4 +1,4 @@
-## Lunch Roulette 
+## Lunch Roulette for November 4, 2016
 
 **Group 1:** Calaway, Alex Fosco, Noah Berman, Kinan Whyte, Jeff Buss, Nick Gheorghita, Casey Cross  
 **Group 2:** Chase Dunagan, Jonathan Willemain, Lacey Knaff, Kerry Sheldon, Alene Schlereth, Amara Lovato, Benjamin Godfrey  
