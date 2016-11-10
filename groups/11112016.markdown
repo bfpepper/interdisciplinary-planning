@@ -1,17 +1,17 @@
 ## Cross-Module Planning Groups for Nov 11, 2016
 
-Group 1: Calaway, Alex Fosco, Anthony Ciccone, Michael Schutte
-Group 2: Amara Lovato, Raphael Barbo, Vido Seaver, Nick Erhardt
-Group 3: Amy Kintner, Ryan David Workman, Michael Scherer, Nick Gheorghita
-Group 4: David Davydov, Ben Pepper, Ann Wolff, Phyllis Hugunien
-Group 5: Brett Rivers, Jean Joeris, Jonathan Kimble, Robbie Smith
-Group 6: Susi Irwin, Megan Talbot, Caroline Powell, Anna Dolan
-Group 7: Noah Berman, Daniel Rodriguez, Brian Heim, Jesse Shipley
-Group 8: David Knott, Daniel Shin, Chase Dunagan, Lee Saville
-Group 9: Joseph Stansfield, Matt DesMarteau, Drew Palazzari, Alene Schlereth
-Group 10: Alisher Sadikov, Jesse Spevack, Edilene Cruz, Marisa Burton
-Group 11: Bryan Goss, Ryan Travitz, Eric Wahlgren-Sauro, Molly Brown
-Group 12: Ethan Bennett, Erin Pintozzi, Nate Anderson, David Junta
-Group 13: Jasmin Hudacsek, Jason Conrad, Brendan Dillon, Lucy Conklin
-Group 14: Dan Broadbent, Bradley Green, Sonia Gupta, Laszlo Balogh
+Group 1: Calaway, Alex Fosco, Anthony Ciccone, Michael Schutte  
+Group 2: Amara Lovato, Raphael Barbo, Vido Seaver, Nick Erhardt  
+Group 3: Amy Kintner, Ryan David Workman, Michael Scherer, Nick Gheorghita  
+Group 4: David Davydov, Ben Pepper, Ann Wolff, Phyllis Hugunien  
+Group 5: Brett Rivers, Jean Joeris, Jonathan Kimble, Robbie Smith  
+Group 6: Susi Irwin, Megan Talbot, Caroline Powell, Anna Dolan  
+Group 7: Noah Berman, Daniel Rodriguez, Brian Heim, Jesse Shipley  
+Group 8: David Knott, Daniel Shin, Chase Dunagan, Lee Saville  
+Group 9: Joseph Stansfield, Matt DesMarteau, Drew Palazzari, Alene Schlereth  
+Group 10: Alisher Sadikov, Jesse Spevack, Edilene Cruz, Marisa Burton  
+Group 11: Bryan Goss, Ryan Travitz, Eric Wahlgren-Sauro, Molly Brown  
+Group 12: Ethan Bennett, Erin Pintozzi, Nate Anderson, David Junta  
+Group 13: Jasmin Hudacsek, Jason Conrad, Brendan Dillon, Lucy Conklin  
+Group 14: Dan Broadbent, Bradley Green, Sonia Gupta, Laszlo Balogh  
 Group 15: Kyle Heppenstall, Josh Cohen, Nicholas Martinez
