@@ -44,10 +44,10 @@ Count off in groups of 5. Assign the following roles to people in your group.
 
 * **Participant (all):** Listens actively, is respectful and engaged, takes responsibility for all members having a chance to share their perspectives and learn from others.
 
-As a group, discuss the questions “what might be” and “what should be." Write down the list of ideas that your group thinks "should be." 
+As a group, discuss the questions “what might be” and “what should be." Write down the list of ideas that your group thinks "should be." Choose the top two ideas and write them on post-it notes. 
 
 ## Report Out and Voting (5 min)
-Send a representative from your group to the front of the room. Each group representative will report out their group's top two ideas. The facilitator will select the top 5-6 topics. Students will split into groups based on the topics they're interested in and will develop a plan of action for developing around that strength next module. 
+Send a representative from your group to the front of the room with your post-it note with your group's top two ideas. The facilitator will select the top 5-6 topics. Students will split into groups based on the topics they're interested in and will develop a plan of action for developing around that strength next module. 
 
 ## Planning (20 min)
 Once you're in your new groups, discuss what it would take and look like to launch this idea? Assign the following roles to people in your group. 
