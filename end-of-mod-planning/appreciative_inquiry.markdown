@@ -1,7 +1,7 @@
 # Final Friday School Visioning Session
 
 ## Connection to Mission
-"Our mission is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers.
+"Our mission is to unlock human potential by training a diverse, inclusive student body to succeed in high-fulfillment technical careers."
 
 To advance this mission, it's important that Turing be a learning organization that can adapt to the needs of students and the market of employment opportunities. This requires that Turing have sound routines and practices for understanding what we do well and continue to invest in that work. 
 
@@ -22,8 +22,9 @@ Today we will use an AI approach to reflect on our past module and build on our 
 * Reflection
 * Small Group Discussion
 * Small Group Synthesis
-* Report Out and Voting
+* Report Out and Regroup
 * Planning
+* Share Out
 
 ## Reflection (10 min)
 Write privately about the following questions. 
@@ -46,7 +47,18 @@ Count off in groups of 5. Assign the following roles to people in your group.
 As a group, discuss the questions “what might be” and “what should be." Write down the list of ideas that your group thinks "should be." 
 
 ## Report Out and Voting (5 min)
-Send a representative from your group to the front of the room where your site is gathered. Each group representative will report out their ideas. Topics will be posted in Slack for each person to vote on. After everyone has voted, students will split into groups based on the topics they're interested in and will develop a plan of action for developing around that strength next module. 
+Send a representative from your group to the front of the room. Each group representative will report out their group's top two ideas. The facilitator will select the top 5-6 topics. Students will split into groups based on the topics they're interested in and will develop a plan of action for developing around that strength next module. 
 
-## Planning (25 min)
-What would it take, look like to launch this idea?
+## Planning (20 min)
+Once you're in your new groups, discuss what it would take and look like to launch this idea? Assign the following roles to people in your group. 
+
+* **Facilitator:** Ensures that every individual in the group has a chance to contribute to the conversation.
+
+* **Notekeeper:** Takes notes to record the action planand submits the idea, action plan, and names of group members [here](https://goo.gl/forms/AmIBtkTyb5L8NJGf2) at the end of the session. 
+
+* **Reporter: ** Reports back to the whole group at the end of the session.
+
+* **Participant (all):** Listens actively, is respectful and engaged, takes responsibility for all members having a chance to share their perspectives and learn from others.
+
+## Share Out (5 min)
+A representative from each group will share out their action plan.
