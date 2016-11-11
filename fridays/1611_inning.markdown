@@ -61,7 +61,7 @@ start | end | session | location
 
 
 ## Week 4 (December 22, 2016 - Thursday)
-Leads: Bree, Lauren
+Leads: Bree, Lauren  
 Notes: Four-day week  
 
 start | end | session | location
@@ -80,7 +80,7 @@ start | end | session | location
 
 
 ## Week 5 (January 6, 2017)
-Leads: Bree, Lauren
+Leads: Bree, Lauren  
 Notes: Four-day week  
 
 start | end | session | location
@@ -97,7 +97,7 @@ start | end | session | location
 
 
 ## Week 6 (January 13, 2017)
-Leads: Bree, Lauren
+Leads: Bree, Lauren  
 Notes: SAB will take lead on the Cross-Cohort Planning Session (tbd)
 
 start | end | session | location
