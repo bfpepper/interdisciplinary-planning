@@ -8,7 +8,7 @@ start | end | session | location
 10:10 AM | 12:00 PM | Instructional Time | regular classrooms
 12:00 PM | 1:15 PM | Brown-Bag Lunch Roulette (groups)| student choice  
 1:15 PM | 2:15 PM | Gear Up (M2-M4) | Blake, Gusto
-| | Turing Citizenship (M1) | S300
+ | | Turing Citizenship (M1) | S300
  | 10 min | TRANSITION TIME |
 2:25 PM | 3:15 PM | Friday Spike | Gusto and Blake
  | 10 min | TRANSITION TIME |
@@ -48,7 +48,7 @@ start | end | session | location
 10:10 AM | 12:00 PM | Instructional Time | regular classrooms
 12:00 PM | 1:15 PM | Brown-Bag Lunch Roulette | student choice
 1:15 PM | 2:15 PM | Gear Up (M2-M4) | Blake, Gusto
-| | Turing Citizenship (M1) | S300
+ | | Turing Citizenship (M1) | S300
  | 10 min | TRANSITION TIME |
 2:25 PM | 3:15 PM | Friday Spike | Gusto and Blake
  | 10 min | TRANSITION TIME |
