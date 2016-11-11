@@ -56,7 +56,7 @@ Once you're in your new groups, discuss what it would take and look like to laun
 
 * **Notekeeper:** Takes notes to record the action planand submits the idea, action plan, and names of group members [here](https://goo.gl/forms/AmIBtkTyb5L8NJGf2) at the end of the session. 
 
-* **Reporter: ** Reports back to the whole group at the end of the session.
+* **Reporter:** Reports back to the whole group at the end of the session.
 
 * **Participant (all):** Listens actively, is respectful and engaged, takes responsibility for all members having a chance to share their perspectives and learn from others.
 
