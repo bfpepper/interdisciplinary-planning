@@ -56,7 +56,7 @@ start | end | session | location
 
 **Links**
 * Lunch Roulette: Suggestions on where to eat your brown bags [here](http://goo.gl/mHcSpv). Group assignments [here](https://github.com/turingschool/interdisciplinary-planning/blob/master/groups/20161216.markdown).
-* Gear Up: We will discuss ["Crucial Conversations"](https://github.com/turingschool/gear-up/blob/master/crucial_conversations.markdown) at Blake and Gusto. Locations and group assignments posted [here](https://github.com/turingschool/interdisciplinary-planning/blob/master/groups/20161216.markdown). Module 1 (BE/FE) will have their own Gear Up/Citizenship session at S300.
+* Gear Up: We will discuss ["Journey Mapping"](https://github.com/turingschool/gear-up/blob/master/journey-mapping.markdown) at Blake and Gusto. Locations and group assignments posted [here](https://github.com/turingschool/interdisciplinary-planning/blob/master/groups/20161216.markdown). Module 1 (BE/FE) will have their own Gear Up/Citizenship session at S300.
 * Spike: Sessions and locations listed [here](https://docs.google.com/spreadsheets/d/1K5JRLoSOHwv4SqE3B6uuXNFuZ9chn3Xop_9fpB9Wyh4/edit?usp=sharing).
 
 
